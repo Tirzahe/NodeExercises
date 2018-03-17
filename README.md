@@ -1,1 +1,3 @@
 # NodeExercises
+
+Practicing JS functions.
